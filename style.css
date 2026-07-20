@@ -196,3 +196,7 @@ a:hover {
   padding: 24px 48px 64px 48px;
   max-width: 480px;
 }
+.form-row {
+  margin-bottom: 18px;
+  display: block;
+}
