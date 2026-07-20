@@ -184,3 +184,15 @@ a:hover {
   font-weight: bold;
   color: #f2ece2;
 }
+
+/* ===== Contact ===== */
+
+.contact-intro {
+  padding: 0 48px;
+  color: #cfc7ba;
+}
+
+.contact-form {
+  padding: 24px 48px 64px 48px;
+  max-width: 480px;
+}
