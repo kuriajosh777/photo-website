@@ -226,3 +226,17 @@ a:hover {
   outline: none;
   border-color: #e0a458;
 }
+
+.contact-form button {
+  background-color: #e0a458;
+  color: #1c1a17;
+  border: none;
+  padding: 12px 28px;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.contact-form button:hover {
+  background-color: #f2b876;
+}
