@@ -1,5 +1,4 @@
-# photo-website
-# Photo Folio
+# Photography portfolio
 
 This is my photography portfolio website project. It's a simple webpage that shows off a gallery of photos, a short biography about me, and a contact form for people to reach out.
 
