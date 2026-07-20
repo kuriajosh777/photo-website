@@ -135,3 +135,21 @@ a:hover {
 .gallery-item {
   width: 280px;
 }
+
+.frame {
+  border: 1px solid #4a4436;
+  padding: 8px;
+  background-color: #24211c;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+
+.gallery-item img {
+  width: 100%;
+}
+
+.gallery-item span {
+  color: #8a8172;
+  font-style: italic;
+  font-size: 14px;
+}
