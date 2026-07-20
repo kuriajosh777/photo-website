@@ -153,3 +153,34 @@ a:hover {
   font-style: italic;
   font-size: 14px;
 }
+
+/* ===== Biography ===== */
+
+.bio-section {
+  border-bottom: 1px solid #37332c;
+}
+
+.bio-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 32px;
+  padding: 0 48px 56px 48px;
+}
+
+.bio-photo {
+  width: 220px;
+  height: 220px;
+  border: 3px solid #e0a458;
+  flex-shrink: 0;
+}
+
+.bio-text h3 {
+  font-size: 22px;
+  margin-bottom: 12px;
+  color: #e0a458;
+}
+
+.bio-text strong {
+  font-weight: bold;
+  color: #f2ece2;
+}
