@@ -249,3 +249,26 @@ a:hover {
   color: #6b6357;
   font-size: 13px;
 }
+/* ===== Responsive ===== */
+
+@media (max-width: 600px) {
+  .site-header,
+  .hero,
+  .section-heading,
+  .gallery,
+  .bio-card,
+  .contact-intro,
+  .contact-form,
+  .site-footer {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .bio-card {
+    flex-direction: column;
+  }
+
+  .hero h1 {
+    font-size: 30px;
+  }
+}
