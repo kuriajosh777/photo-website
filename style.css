@@ -208,3 +208,21 @@ a:hover {
   letter-spacing: 1px;
   color: #cfc7ba;
 }
+
+.form-row input,
+.form-row textarea {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 12px;
+  background-color: #24211c;
+  border: 1px solid #4a4436;
+  color: #f2ece2;
+  font-family: inherit;
+  font-size: 15px;
+}
+
+.form-row input:focus,
+.form-row textarea:focus {
+  outline: none;
+  border-color: #e0a458;
+}
