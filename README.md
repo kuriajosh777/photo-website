@@ -36,7 +36,7 @@ No installation or extra tools are needed since this is just plain HTML and CSS.
 
 ## Live Site
 
-You can view the live version of this site here: `<add your GitHub Pages link here>`
+You can view the live version of this site here: `https://github.com/kuriajosh777/photo-website
 
 ## Copyright / License
 
