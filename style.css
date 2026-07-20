@@ -74,3 +74,42 @@ a:hover {
 .hero-text {
   max-width: 720px;
 }
+
+.eyebrow {
+  color: #e0a458;
+  font-weight: bold;
+  font-size: 13px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.hero h1 {
+  font-size: 42px;
+  margin-bottom: 24px;
+}
+
+.hero h1 em {
+  font-style: italic;
+  color: #e0a458;
+}
+
+.intro {
+  font-size: 17px;
+  color: #cfc7ba;
+}
+
+/* ===== Section headings (shared) ===== */
+
+.section-heading {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  padding: 48px 48px 24px 48px;
+}
+
+.tag {
+  font-family: Georgia, serif;
+  font-style: italic;
+  color: #6b6357;
+  font-size: 20px;
+}
