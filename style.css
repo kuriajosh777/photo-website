@@ -240,3 +240,12 @@ a:hover {
 .contact-form button:hover {
   background-color: #f2b876;
 }
+
+/* ===== Footer ===== */
+
+.site-footer {
+  padding: 24px 48px;
+  text-align: center;
+  color: #6b6357;
+  font-size: 13px;
+}
