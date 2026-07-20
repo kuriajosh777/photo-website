@@ -1,0 +1,76 @@
+/* ===== Base ===== */
+
+body {
+  margin: 0;
+  background-color: #1c1a17;
+  color: #f2ece2;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-weight: normal;
+  margin: 0;
+}
+
+p {
+  margin: 0 0 12px 0;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+a {
+  color: #e0a458;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ===== Header ===== */
+
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 48px;
+  border-bottom: 1px solid #37332c;
+}
+
+.logo {
+  font-family: Georgia, serif;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.logo em {
+  font-style: italic;
+  color: #e0a458;
+}
+
+.site-header nav a {
+  margin-left: 28px;
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: #f2ece2;
+}
+
+.site-header nav a:hover {
+  color: #e0a458;
+}
+
+/* ===== Hero ===== */
+
+.hero {
+  padding: 80px 48px;
+  border-bottom: 1px solid #37332c;
+}
+
+.hero-text {
+  max-width: 720px;
+}
