@@ -113,3 +113,25 @@ a:hover {
   color: #6b6357;
   font-size: 20px;
 }
+.section-heading h2 {
+  font-size: 28px;
+}
+
+/* ===== Gallery ===== */
+
+.gallery-section {
+  border-bottom: 1px solid #37332c;
+}
+
+.gallery {
+  list-style: none;
+  margin: 0;
+  padding: 0 48px 48px 48px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.gallery-item {
+  width: 280px;
+}
